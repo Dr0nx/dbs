@@ -24,4 +24,4 @@
 
 [Урок 11. Видеоурок. Оптимизация запросов. NoSQL](https://github.com/Dr0nx/dbs/tree/lesson_11/lesson_11/ )<br>
 
-[Урок 12. Вебинар. Оптимизация запросов](https://github.com/Dr0nx/dbs/tree/lesson_12/lesson_12/) <br>
+[Курсовой проект(https://github.com/Dr0nx/dbs/tree/coursework/coursework/) <br>
